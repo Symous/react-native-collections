@@ -31,5 +31,6 @@ A collection of react-native components developed by third-party developers whic
 ## Other
 * [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen): 启动画面，Splash Screen。
 * [react-native-i18n](https://github.com/AlexanderZaytsev/react-native-i18n): 多语言支持。
+* [react-native-notification](https://github.com/zo0r/react-native-push-notification): 通知中心。
 
 
