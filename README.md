@@ -17,6 +17,8 @@ A collection of react-native components developed by third-party developers whic
 ## Progress
 * [react-native-progress](https://github.com/oblador/react-native-progress): 多种形式的进度显示组件。
 * [react-native-percentage-circle](https://github.com/JackPu/react-native-percentage-circle): 圆形进度组件，在不同系统下可能存在进度显示的bug，自己修复一下，问题不大。
+* [react-native-timeline-listview](https://github.com/thegamenicorus/react-native-timeline-listview ): 时光轴/步骤条组件。
+* [react-native-step-indicator](https://github.com/24ark/react-native-step-indicator ): 步骤条组件。
 ## Hot Update
 * [code-push](https://github.com/Microsoft/code-push): 微软出品，市面上最主流的热更新组件。
 * [react-native-pushy](https://github.com/reactnativecn/react-native-pushy): React Native 中文网发布/推荐。
