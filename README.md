@@ -26,14 +26,17 @@ A collection of react-native components developed by third-party developers whic
 * [react-native-sqlite-storage](https://github.com/andpor/react-native-sqlite-storage): SQLite数据库组件。
 * [react-native-storage](https://github.com/sunnylqm/react-native-storage):非数据库存储，封装自官方AsyncStorage。
 ## Navigation
-* [react-navigation](https://github.com/react-navigation/react-navigation)：目前来看，最流畅并最受欢迎的导航组件。
-* [react-native-router-flux](https://github.com/aksonov/react-native-router-flux): 简单易用的导航组件，新版本也已经向react-navigation看齐。
+* [react-navigation](https://github.com/react-navigation/react-navigation)：目前来看，最流畅并最受欢迎的导航组件，基于原生。
+* [react-native-router-flux](https://github.com/aksonov/react-native-router-flux)：简单易用的导航组件，新版本也已经向react-navigation看齐。
+* [react-nativa-navigation](https://github.com/wix/react-native-navigation/)：和react-navigation一样基于原生的导航库。
 ## Dialog/Modal
-
+* [react-native-modalbox](https://github.com/maxs15/react-native-modalbox)：弹窗组件。
 ## Other
 * [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen): 启动画面，Splash Screen。
 * [react-native-i18n](https://github.com/AlexanderZaytsev/react-native-i18n): 多语言支持。
 * [react-native-notification](https://github.com/zo0r/react-native-push-notification): 通知中心。
 * [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler): 手势处理。
+* [react-native-fs](https://github.com/itinance/react-native-fs)：文件管理。
+* [react-native-calendar](https://github.com/wix/react-native-calendars)：日历组件。
 
 
