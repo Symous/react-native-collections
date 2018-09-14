@@ -12,6 +12,7 @@ A collection of react-native components developed by third-party developers whic
 
 ## Media
 * [react-native-camera](https://github.com/react-native-community/react-native-camera): 相机组件，功能完善，支持二维码扫描。
+* [AC-QRCode-RN](https://github.com/MarnoDev/AC-QRCode-RN): 二维码扫描组件，基于[react-native-camera](https://github.com/react-native-community/react-native-camera)。
 * [react-native-audio-toolkit](https://github.com/futurice/react-native-audio-toolkit): 音频播放组件。
 * [react-native-video](https://github.com/react-native-community/react-native-video): 视频播放组件。
 ## Progress
