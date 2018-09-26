@@ -15,11 +15,12 @@ A collection of react-native components developed by third-party developers whic
 * [AC-QRCode-RN](https://github.com/MarnoDev/AC-QRCode-RN): 二维码扫描组件，基于[react-native-camera](https://github.com/react-native-community/react-native-camera)。
 * [react-native-audio-toolkit](https://github.com/futurice/react-native-audio-toolkit): 音频播放组件。
 * [react-native-video](https://github.com/react-native-community/react-native-video): 视频播放组件。
-## Progress
+## Progress/Loading
 * [react-native-progress](https://github.com/oblador/react-native-progress): 多种形式的进度显示组件。
 * [react-native-percentage-circle](https://github.com/JackPu/react-native-percentage-circle): 圆形进度组件，在不同系统下可能存在进度显示的bug，自己修复一下，问题不大。
 * [react-native-timeline-listview](https://github.com/thegamenicorus/react-native-timeline-listview ): 时光轴/步骤条组件。
 * [react-native-step-indicator](https://github.com/24ark/react-native-step-indicator ): 步骤条组件。
+* [rn-placeholder](https://github.com/mfrachet/rn-placeholder)：列表渲染Placeholder。
 ## Hot Update
 * [code-push](https://github.com/Microsoft/code-push): 微软出品，市面上最主流的热更新组件。
 * [react-native-pushy](https://github.com/reactnativecn/react-native-pushy): React Native 中文网发布/推荐。
@@ -40,6 +41,6 @@ A collection of react-native components developed by third-party developers whic
 * [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler): 手势处理。
 * [react-native-fs](https://github.com/itinance/react-native-fs)：文件管理。
 * [react-native-calendar](https://github.com/wix/react-native-calendars)：日历组件。
-* [react-native-copilot](https://github.com/okgrow/react-native-copilot):用户操作步骤引导。
+* [react-native-copilot](https://github.com/okgrow/react-native-copilot)：用户操作步骤引导。
 
 
