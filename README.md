@@ -40,5 +40,6 @@ A collection of react-native components developed by third-party developers whic
 * [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler): 手势处理。
 * [react-native-fs](https://github.com/itinance/react-native-fs)：文件管理。
 * [react-native-calendar](https://github.com/wix/react-native-calendars)：日历组件。
+* [react-native-copilot](https://github.com/okgrow/react-native-copilot):用户操作步骤引导。
 
 
