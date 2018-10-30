@@ -34,6 +34,8 @@ A collection of react-native components developed by third-party developers whic
 * [react-nativa-navigation](https://github.com/wix/react-native-navigation/)：和react-navigation一样基于原生的导航库。
 ## Dialog/Modal
 * [react-native-modalbox](https://github.com/maxs15/react-native-modalbox)：弹窗组件。
+## IM
+* [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)：美观的IM聊天UI组件。
 ## Other
 * [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen): 启动画面，Splash Screen。
 * [react-native-i18n](https://github.com/AlexanderZaytsev/react-native-i18n): 多语言支持。
