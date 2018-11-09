@@ -44,6 +44,6 @@ A collection of react-native components developed by third-party developers whic
 * [react-native-fs](https://github.com/itinance/react-native-fs)：文件管理。
 * [react-native-calendar](https://github.com/wix/react-native-calendars)：日历组件。
 * [react-native-copilot](https://github.com/okgrow/react-native-copilot)：用户操作步骤引导。
-* [react-native-permissions](https://github.com/yonahforst/react-native-permissions)：权限管理
+* [react-native-permissions](https://github.com/yonahforst/react-native-permissions)：权限管理。
 
 
