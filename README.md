@@ -28,6 +28,7 @@ A collection of react-native components developed by third-party developers whic
 * [react-native-sqlite-storage](https://github.com/andpor/react-native-sqlite-storage): SQLite数据库组件。
 * [react-native-storage](https://github.com/sunnylqm/react-native-storage):非数据库存储，封装自官方AsyncStorage。
 * [WatermelonDB](https://github.com/Nozbe/WatermelonDB):React/React-Native应用下一代数据库。
+* [realm-js](https://github.com/realm/realm-js) 号称未来的移动数据库。
 ## Navigation
 * [react-navigation](https://github.com/react-navigation/react-navigation)：目前来看，最流畅并最受欢迎的导航组件，基于原生。
 * [react-native-router-flux](https://github.com/aksonov/react-native-router-flux)：简单易用的导航组件，新版本也已经向react-navigation看齐。
