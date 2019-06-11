@@ -46,6 +46,7 @@ A collection of react-native components developed by third-party developers whic
 * [react-native-calendar](https://github.com/wix/react-native-calendars)：日历组件。
 * [react-native-copilot](https://github.com/okgrow/react-native-copilot)：用户操作步骤引导。
 * [react-native-permissions](https://github.com/yonahforst/react-native-permissions)：权限管理。
+* [react-native-rename](https://github.com/junedomingo/react-native-rename): App重命名，修改包名(iOS需在xcode手动修改)。
 * [react-native-safe-area-view](https://github.com/react-native-community/react-native-safe-area-view): 旧版本中兼容iPHone刘海屏
 
 
