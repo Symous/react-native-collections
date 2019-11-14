@@ -49,4 +49,5 @@ A collection of react-native components developed by third-party developers whic
 * [react-native-rename](https://github.com/junedomingo/react-native-rename): App重命名，修改包名(iOS需在xcode手动修改)。
 * [react-native-safe-area-view](https://github.com/react-native-community/react-native-safe-area-view): 旧版本中兼容iPHone刘海屏
 * [upgrade-helper](https://github.com/react-native-community/upgrade-helper): 升级RN版本帮助
+* [react-native-create-library](https://github.com/frostney/react-native-create-library): 快速创建原生库
 
