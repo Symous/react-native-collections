@@ -15,6 +15,7 @@ A collection of react-native components developed by third-party developers whic
 * [AC-QRCode-RN](https://github.com/MarnoDev/AC-QRCode-RN): 二维码扫描组件，基于[react-native-camera](https://github.com/react-native-community/react-native-camera)。
 * [react-native-audio-toolkit](https://github.com/futurice/react-native-audio-toolkit): 音频播放组件。
 * [react-native-video](https://github.com/react-native-community/react-native-video): 视频播放组件。
+* [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker): 媒体拍摄、选择、剪裁
 ## Progress/Loading
 * [react-native-progress](https://github.com/oblador/react-native-progress): 多种形式的进度显示组件。
 * [react-native-percentage-circle](https://github.com/JackPu/react-native-percentage-circle): 圆形进度组件，在不同系统下可能存在进度显示的bug，自己修复一下，问题不大。
