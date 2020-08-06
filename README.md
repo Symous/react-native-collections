@@ -6,7 +6,7 @@ A collection of react-native components developed by third-party developers whic
 * [Ant Design Mobile](https://github.com/ant-design/ant-design-mobile): 阿里出品的支付宝风格UI库。
 * [React Native Elements](https://github.com/react-native-training/react-native-elements): 组件相对来说略少一些，但也很不错。
 * [React Native Material UI](https://github.com/xotahal/react-native-material-ui) & [MRN](https://github.com/binggg/mrn): 纯Material Design风格。
-
+* [React Native UI Kitten](https://github.com/akveo/react-native-ui-kitten): 美呆不解释。
 ## Button
 * [react-native-action-button](https://github.com/mastermoo/react-native-action-button): Material Design中的浮动按钮。
 
